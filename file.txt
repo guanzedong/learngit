@@ -3,6 +3,6 @@ public class Main{
 	public static void main(String args[]){
 		System.out.println("learn git");
 		System.out.println("giao");
-		System.out println("好用么");
+		System.out println("");
 	}
 }
